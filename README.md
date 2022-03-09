@@ -1,6 +1,7 @@
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+View Live Website: https://jcbtechs-qr-code-component.netlify.app/
 
 ## Welcome! 👋
 
